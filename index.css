@@ -381,10 +381,27 @@ body::-webkit-scrollbar-thumb {
     padding: .7rem;
     display: all .5%;
 }
-.icom-facebook2{
+.icon-facebook2{
     background: #2E406E;
     border-radius: 1rem 0 0 0;
 }
-.icom-twitter{
+.icon-twitter{
     background-color: #339DC5;
+}
+.icon-youtube{
+    background-color: #E83028;
+}
+.icon-instagram{
+    background-color: #3F60A5;
+}
+.icon:first-child{
+    border-radius: 1rem 0 0 0;
+}
+.icon:last-child{
+    border-radius: 0 0 0 1rem;
+}
+.icon:hover{
+    padding-right: 3rem;
+    border-radius: 1rem 0 0 1rem;
+    box-shadow: 0 0 .5rem rgb(0, 0, 0, 0.42);
 }
