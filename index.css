@@ -394,6 +394,9 @@ body::-webkit-scrollbar-thumb {
 .icon-instagram{
     background-color: #3F60A5;
 }
+.icon-whatsapp{
+    background-color: #3F60A5;
+}
 .icon:first-child{
     border-radius: 1rem 0 0 0;
 }
