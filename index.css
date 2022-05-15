@@ -90,7 +90,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("img/compu.jpg");/*img principal*/
+    ,url("compu.jpg");/*img principal*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -142,7 +142,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("img/mantenimiento.jpg");/*img vista movil*/
+    ,url("mantenimiento.jpg");/*img vista movil*/
 
 }
 
@@ -152,7 +152,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("img/win11.jpg");/*img vista movil*/
+    ,url("win11.jpg");/*img vista movil*/
 }
 
 .carta:nth-child(3){
@@ -161,7 +161,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("img/accesorios.jpg");/*img vista movil*/
+    ,url("accesorios.jpg");/*img vista movil*/
 
 }
 /*nuestros trabajos*/
@@ -292,7 +292,7 @@ footer .contenedor{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("img/mantenimiento.jpg");/*img para escritorio*/
+        ,url("mantenimiento.jpg");/*img para escritorio*/
 
     }
 
