@@ -319,7 +319,8 @@ footer .contenedor{
         background-image: url("https://fundacioncarlosslim.org/wp-content/uploads/2018/06/curso-academica-mantenimiento-de-equipo-de-computo-basico-2018-2.jpg");
         background-repeat: no-repeat;
         background-size: 500px 400px;
-        background-position: calc(50vw - 500px) 120px;
+        /*background-position: calc(100vw - 500px) 120px;*/
+        	background-position: center;
     }
 
     #caracteristicas .contenedor{
